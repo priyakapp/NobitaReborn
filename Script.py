@@ -250,12 +250,12 @@ This module only works for my admins
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
-@movies_desire
+@movies_desire_bot
 """
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Name - {}
-@movies_desire
+@movies_desire_bot
 """
     FILE_MSG = """
 <b>Hai 👋 {} </b>😍
@@ -305,7 +305,7 @@ Name - {}
 ╰───────────────────╯
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 🍁 ғᴏʀ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs
-👉🏻 ▫️<a href=https://t.me/movie_request_02> Request Group</a>
+👉🏻 ▫️<a href=https://t.me/movies_request_02> Request Group</a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️</b>"""
 
     RESTART_TXT = """
