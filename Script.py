@@ -22,7 +22,7 @@ class script(object):
 <b>-  
 
 <b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ -</b>
-- <a href=https://t.meMovies_Unloded>ᴘsʏᴄʜᴏ ɴᴇᴛᴡᴏʀᴋ</a>"""
+- <a href=https://t.me/Movies_Unloded>Movies Unloded</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -305,7 +305,7 @@ Name - {}
 ╰───────────────────╯
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 🍁 ғᴏʀ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs
-👉🏻 ▫️<a href=https://t.me/movie_request_02> ᴍᴏᴠɪᴇᴢ ᴄᴏᴍᴍᴜɴɪᴛʏ </a>
+👉🏻 ▫️<a href=https://t.me/movie_request_02> Request Group</a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️</b>"""
 
     RESTART_TXT = """
