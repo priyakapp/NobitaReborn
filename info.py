@@ -84,7 +84,7 @@ MONGO_URL = os.environ.get('MONGO_URL', "")
 DOWNLOAD_LOCATION = environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/AudioBoT/")
 
 #url links
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'urlearn.xyz')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'cyberurl.me')
 SHORTLINK_API = environ.get('SHORTLINK_API', '8e88b53e73f15d37c396c6e97e388e86356975c6')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 
@@ -93,9 +93,9 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 PORT = os.environ.get("PORT", "8080")
 MAX_BTN = int(environ.get('MAX_BTN', "7"))
-S_GROUP = environ.get('S_GROUP',"https://t.me/devils_chats")
-MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/everytype_movies")
-FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/")
+S_GROUP = environ.get('S_GROUP',"https://t.me/Movies_Request_02")
+MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/Movies_Unloaded_Backup")
+FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/+6Ksyhq3M9vthODA9")
 MSG_ALRT = environ.get('MSG_ALRT', 'ᴄʜᴇᴄᴋ ᴀɴᴅ ᴛʀʏ ᴀʟʟ ᴍʏ ғᴇᴀᴛᴜʀᴇs')
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
