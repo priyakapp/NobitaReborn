@@ -22,7 +22,7 @@ class script(object):
 <b>-  
 
 <b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ -</b>
-- <a href=https://t.me/Movies_Unloded>Movies Unloded</a>"""
+- <a href=https://t.me/Movies_Unloded>Movies Unloaded</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -177,7 +177,7 @@ To Get Sticker ID
 <b>COMMAND</b> : /font your text (optional)
         <b> Eg:- /font Hello</b>
 
- <i>This feature added by @Movies_Unloded_Backup"""
+ <i>This feature added by @Movies_Unloaded_Backup"""
     JSON_TXT = """<b>JSON:</b>
 Bot returns json for all replied messages with /json or /js
 <b>Features:</b>
@@ -301,11 +301,13 @@ Name - {}
 
 〰️〰️〰️〰️〰️〰️〰️〰️
 ╭───🔅 ᴜᴘʟᴏᴀᴅ ʙʏ 🔅 ────╮
-├• ▫️<a href=https://t.me/Movies_Unloaded2> Movies Unloded </a>
+├• ▫️<a href=https://t.me/Movies_Unloaded2> Movies Unloaded </a>
 ╰───────────────────╯
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 🍁 ғᴏʀ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs
 👉🏻 ▫️<a href=https://t.me/movies_request_02> Request Group</a>
+〰️〰️〰️〰️〰️〰️〰️〰️〰️
+📢 ▫️ <a href=https://bit.ly/43bhmhT> Learn Hacking Here<a/>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️</b>"""
 
     RESTART_TXT = """
