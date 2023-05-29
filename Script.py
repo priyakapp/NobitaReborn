@@ -307,7 +307,7 @@ Name - {}
 🍁 ғᴏʀ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs
 👉🏻 ▫️<a href=https://t.me/movies_request_02> Request Group</a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
-📢 ▫️ <a href=https://bit.ly/43bhmhT> Learn Hacking Here<a/>
+📢 ▫️ <a href=https://bit.ly/43bhmhT> Learn Hacking Here</a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️</b>"""
 
     RESTART_TXT = """
