@@ -645,7 +645,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('× ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ×', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('CHANNEL', url='https://t.me/Movies_Unloaded2')
+            InlineKeyboardButton('CHANNEL', url='https://t.me/+NVUJZ3u6Mak3NWJl')
         ], [
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
@@ -702,7 +702,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "aswin":
         buttons = [[
-             InlineKeyboardButton('ᴀᴜᴅʙᴏᴏᴋ', callback_data='abook'),
              InlineKeyboardButton('ᴄᴏᴠɪᴅ', callback_data='corona'),
              InlineKeyboardButton('ɢᴀᴍᴇs', callback_data='fun')
          ], [
@@ -740,10 +739,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
              InlineKeyboardButton('ғᴏɴᴛ', callback_data='font'),
              InlineKeyboardButton('ɢᴛʀᴀɴs', callback_data='gtrans'),
-             InlineKeyboardButton('ᴄᴀʀʙᴏɴ', callback_data='carb'),
         ],  [
              InlineKeyboardButton('ᴄᴏᴜɴᴛʀʏ', callback_data='country'),
-             InlineKeyboardButton('ᴅᴇᴘʟᴏʏ', callback_data='deploy'),
              InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='start')
         ], [
              InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='aswin')
@@ -789,7 +786,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ɴᴇᴛᴡᴏʀᴋ', url='https://t.me/movies_unloaded_backup'),
+            InlineKeyboardButton('ɴᴇᴛᴡᴏʀᴋ', url='https://t.me/+NVUJZ3u6Mak3NWJl'),
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -947,8 +944,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "deploy":
         buttons = [[
-           InlineKeyboardButton('ɴᴇᴛᴡᴏʀᴋ', url='https://t.me/movies_unloaded_backup'),
-           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/pro_morningstar')
+           InlineKeyboardButton('ɴᴇᴛᴡᴏʀᴋ', url='https://t.me/+NVUJZ3u6Mak3NWJl'),
+           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/NobitaReborn')
         ], [
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='aswin')
         ]]
