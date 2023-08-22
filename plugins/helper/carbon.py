@@ -42,7 +42,7 @@ async def carbon_func(_, message):
     carbon = await make_carbon(message.reply_to_message.text)
     await m.edit("ᴜᴘʟᴏᴀᴅɪɴɢ..")
     await message.reply_photo(
-        photo=carbon,
+        photo=carbon.png,
         caption="**ᴛʜɪs ᴘɪᴄ ɪs ɴɪᴄᴇ ᴏɴᴇ\nᴍᴀᴅᴇ ʙʏ @ᴍᴏᴠɪᴇꜱ ᴜɴʟᴏᴀᴅᴇᴅ**",
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=S_GROUP)]]),                   
     )
