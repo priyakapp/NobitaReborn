@@ -11,6 +11,6 @@ WORKDIR /Elsa
 COPY start.sh /start.sh
 
 # Expose port 8000
-EXPOSE 8000
+EXPOSE 8080
 
 CMD ["/bin/bash", "/start.sh"]
