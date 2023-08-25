@@ -11,25 +11,25 @@ class script(object):
 
     ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ: {}
 ✯ ᴍʏ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/pro_morningstar>pro morningstar</a>
-✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ: <a href=https://t.me/Movies_Unloaded_Backup>Movies Unloaded</a>
+✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ: <a href=https://t.me/+NVUJZ3u6Mak3NWJl>ℙ𝕀𝕏𝕋𝔸ℝ 𝕊𝕌ℙℙ𝕆ℝ𝕋</a>
 ✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
 ✯ ʟᴀɴɢᴜᴀɢᴇ:  ᴘʏᴛʜᴏɴ 𝟹
 ✯ ᴅᴀᴛᴀ ʙᴀsᴇ: ᴍᴀɴɢᴏ ᴅʙ
-✯ ʙᴏᴛ sᴇʀᴠᴇʀ: ʜᴇʀᴏᴋᴜ
-✯ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: v2.0.1 [ ʙᴇᴛᴀ ]</b>"""
+✯ ʙᴏᴛ sᴇʀᴠᴇʀ: VPS
+✯ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: v2.0.0</b>"""
 
-    SOURCE_TXT = """<b>NOTE:</b>
+    SOURCE_TXT = """<b>NOTE:</b>Managed by ℙ𝕀𝕏𝕋𝔸ℝ 𝕊𝕌ℙℙ𝕆ℝ𝕋
 <b>-  
 
 <b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ -</b>
-- <a href=https://t.me/+NVUJZ3u6Mak3NWJl>Pixtar</a>"""
+- <a href=https://t.me/+NVUJZ3u6Mak3NWJl>https://t.me/+NVUJZ3u6Mak3NWJl</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 <b>- 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝚂 𝚃𝙷𝙴 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝚆𝙴𝚁𝙴 𝚄𝚂𝙴𝚁𝚂 𝙲𝙰𝙽 𝚂𝙴𝚃 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙴𝙳 𝚁𝙴𝙿𝙻𝙸𝙴𝚂 𝙵𝙾𝚁 𝙰 𝙿𝙰𝚁𝚃𝙸𝙲𝚄𝙻𝙰𝚁 𝙺𝙴𝚈𝚆𝙾𝚁𝙳 𝙰𝙽𝙳 MOVIES DESIRE 𝚆𝙸𝙻𝙻 𝚁𝙴𝚂𝙿𝙾𝙽𝙳 𝚆𝙷𝙴𝙽𝙴𝚅𝙴𝚁 𝙰 𝙺𝙴𝚈𝚆𝙾𝚁𝙳 𝙸𝚂 𝙵𝙾𝚄𝙽𝙳 𝚃𝙷𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴</b>
 
 <b>NOTE:</b>
-<b>𝟷. MOVIES DESIRE 𝚂𝙷𝙾𝚄𝙻𝙳 𝙷𝙰𝚅𝙴 𝙰𝙳𝙼𝙸𝙽 𝙿𝚁𝙸𝚅𝙸𝙻𝙻𝙰𝙶𝙴.
+<b>𝟷. ℙ𝕀𝕏𝕋𝔸ℝ 𝚂𝙷𝙾𝚄𝙻𝙳 𝙷𝙰𝚅𝙴 𝙰𝙳𝙼𝙸𝙽 𝙿𝚁𝙸𝚅𝙸𝙻𝙻𝙰𝙶𝙴.
 𝟸. 𝙾𝙽𝙻𝚈 𝙰𝙳𝙼𝙸𝙽𝚂 𝙲𝙰𝙽 𝙰𝙳𝙳 𝙵𝙸𝙻𝚃𝙴𝚁𝚂 𝙸𝙽 𝙰 𝙲𝙷𝙰𝚃.
 𝟹. 𝙰𝙻𝙴𝚁𝚃 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝙷𝙰𝚅𝙴 𝙰 𝙻𝙸𝙼𝙸𝚃 𝙾𝙵 𝟼𝟺 𝙲𝙷𝙰𝚁𝙰𝙲𝚃𝙴𝚁𝚂.</b>
 
@@ -41,10 +41,10 @@ class script(object):
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-<b>MOVIES DESIRE 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝚂 𝙱𝙾𝚃𝙷 𝚄𝚁𝙻 𝙰𝙽𝙳 𝙰𝙻𝙴𝚁𝚃 𝙸𝙽𝙻𝙸𝙽𝙴 𝙱𝚄𝚃𝚃𝙾𝙽𝚂.</b>
+<b>ℙ𝕀𝕏𝕋𝔸ℝ  𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝚂 𝙱𝙾𝚃𝙷 𝚄𝚁𝙻 𝙰𝙽𝙳 𝙰𝙻𝙴𝚁𝚃 𝙸𝙽𝙻𝙸𝙽𝙴 𝙱𝚄𝚃𝚃𝙾𝙽𝚂.</b>
 <b>NOTE:</b>
 <b>𝟷. 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝚆𝙸𝙻𝙻 𝙽𝙾𝚃 𝙰𝙻𝙻𝙾𝚆𝚂 𝚈𝙾𝚄 𝚃𝙾 𝚂𝙴𝙽𝙳 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝚆𝙸𝚃𝙷𝙾𝚄𝚃 𝙰𝙽𝚈 𝙲𝙾𝙽𝚃𝙴𝙽𝚃, 𝚂𝙾 𝙲𝙾𝙽𝚃𝙴𝙽𝚃 𝙸𝚂 𝙼𝙰𝙽𝙳𝙰𝚃𝙾𝚁𝚈.
-𝟸. MOVIES DESIRE 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝚂 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝚆𝙸𝚃𝙷 𝙰𝙽𝚈 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙼𝙴𝙳𝙸𝙰 𝚃𝚈𝙿𝙴.
+𝟸. ℙ𝕀𝕏𝕋𝔸ℝ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝚂 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝚆𝙸𝚃𝙷 𝙰𝙽𝚈 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙼𝙴𝙳𝙸𝙰 𝚃𝚈𝙿𝙴.
 𝟹. 𝙱𝚄𝚃𝚃𝙾𝙽𝚂 𝚂𝙷𝙾𝚄𝙻𝙳 𝙱𝙴 𝙿𝚁𝙾𝙿𝙴𝚁𝙻𝚈 𝙿𝙰𝚁𝚂𝙴𝙳 𝙰𝚂 𝙼𝙰𝚁𝙺𝙳𝙾𝚆𝙽 𝙵𝙾𝚁𝙼𝙰𝚃</b>
 <b>URL buttons:</b>
 <code>[Button Text](buttonurl:https://t.me/Example...)</code>
@@ -98,7 +98,7 @@ these are the extra features of MOVIES DESIRE
 ⏭️ /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
 
 <b>𝚆𝙾𝚁𝙺𝚂 𝙱𝙾𝚃𝙷 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙿𝙼</b>
-@Movies_Unloded_Backup"""
+ℙ𝕀𝕏𝕋𝔸ℝ """
 
     VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 • 𝘜𝘴𝘢𝘨𝘦
@@ -235,7 +235,7 @@ This module only works for my admins
 • /send - <code>Send any message through bot to users. /send (username/userid) reply with message </code>
 • /deletefiles - <code>Delete CamRip and PreDvD files delete from database </code>"""
     
-    STATUS_TXT = """<b>★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
+    STATUS_TXT = """<b>★ 📁𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
 ★ 👥𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
 ★ 🗨️𝙾𝚃𝙰𝙻𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
 ★ 🗃️𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
@@ -255,7 +255,7 @@ Added By - {}
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Name - {}
-@movies_desire_bot
+@pixtarxd_bot
 """
     FILE_MSG = """
 <b>Hai 👋 {} </b>😍
@@ -301,11 +301,11 @@ Name - {}
 
 〰️〰️〰️〰️〰️〰️〰️〰️
 ╭───🔅 ᴜᴘʟᴏᴀᴅ ʙʏ 🔅 ────╮
-├• ▫️<a href=https://t.me/+NVUJZ3u6Mak3NWJl> Pixtar </a>
+├• ▫️<a href=https://t.me/+NVUJZ3u6Mak3NWJl> ℙ𝕀𝕏𝕋𝔸ℝ 𝕊𝕌ℙℙ𝕆ℝ𝕋 </a>
 ╰───────────────────╯
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
-🍁 ғᴏʀ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs
-👉🏻 ▫️<a href=https://t.me/NobitaReborn> Owner</a>
+🍁ᗰᗩᑎᗩᘜᗴᗪ ᗷY - @ᑎOᗷITᗩᖇᗴᗷOᖇᑎ
+👉🏻 ▫️<a href=https://t.me/NobitaReborn>  @ᑎOᗷITᗩᖇᗴᗷOᖇᑎ</a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 </b>"""
 
