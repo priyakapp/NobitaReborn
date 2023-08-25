@@ -112,12 +112,22 @@ async def pm_text(bot, message):
     content = message.text
     user = message.from_user.first_name
     user_id = message.from_user.id
-    if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
-    await message.reply_text("<b>Your message has been sent to my moderators !If you want any movie then join this group @movies_request_02 .</b>")
+    
+    if content.startswith("/") or content.startswith("#"):
+        return  # Ignore commands and hashtags
+    
+    # Create an InlineKeyboardMarkup with the "Add me to group" button
+    keyboard = InlineKeyboardMarkup([
+        [InlineKeyboardButton("➕ Add me to group", url=f"http://t.me/{temp.U_NAME}?startgroup=true")]
+    ])
+    
+    await message.reply_text("😬 Oops! I won't work in PM. Please add me to a group.", reply_markup=keyboard)
+    
     await bot.send_message(
         chat_id=LOG_CHANNEL,
-        text=f"<b>#PM_MSG\n\nName : {user}\n\nID : {user_id}\n\nMessage : {content}</b>"
+        text=f"#PM_MSG\n\nName: {user}\nID: {user_id}\nMessage: {content}"
     )
+
 
 @Client.on_callback_query(filters.regex(r"^next"))
 async def next_page(bot, query):
