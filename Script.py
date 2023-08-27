@@ -10,7 +10,6 @@ class script(object):
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
     ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ: {}
-✯ ᴍʏ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/pro_morningstar>pro morningstar</a>
 ✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ: <a href=https://t.me/+NVUJZ3u6Mak3NWJl>ℙ𝕀𝕏𝕋𝔸ℝ 𝕊𝕌ℙℙ𝕆ℝ𝕋</a>
 ✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
 ✯ ʟᴀɴɢᴜᴀɢᴇ:  ᴘʏᴛʜᴏɴ 𝟹
@@ -22,7 +21,7 @@ class script(object):
 <b>-  
 
 <b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ -</b>
-- <a href=https://t.me/+NVUJZ3u6Mak3NWJl>https://t.me/+NVUJZ3u6Mak3NWJl</a>"""
+- <a href=https://t.me/+NVUJZ3u6Mak3NWJl></a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
