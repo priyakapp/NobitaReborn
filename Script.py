@@ -17,11 +17,11 @@ class script(object):
 ✯ ʙᴏᴛ sᴇʀᴠᴇʀ: VPS
 ✯ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: v2.0.0</b>"""
 
-    SOURCE_TXT = """<b>NOTE:</b>ᗰᗩᑎᗩᘜᗴᗪ ᗷY - @ᑎOᗷITᗩᖇᗴᗷOᖇᑎ
+    SOURCE_TXT = """<b>NOTE:</b>ᗰᗩᑎᗩᘜᗴᗪ ᗷY - <a href=https://telegram.me/NobitaReborn>@ᑎOᗷITᗩᖇᗴᗷOᖇᑎ </a>
 <b>-  
 
 <b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ -</b>
-- <a href=https://t.me/+NVUJZ3u6Mak3NWJl><ℙ𝕀𝕏𝕋𝔸ℝ 𝕊𝕌ℙℙ𝕆ℝ𝕋/a>"""
+- <a href=https://t.me/+NVUJZ3u6Mak3NWJl>ℙ𝕀𝕏𝕋𝔸ℝ 𝕊𝕌ℙℙ𝕆ℝ𝕋</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
