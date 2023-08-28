@@ -84,9 +84,9 @@ MONGO_URL = os.environ.get('MONGO_URL', "")
 DOWNLOAD_LOCATION = environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/AudioBoT/")
 
 #url links
-SHORTLINK_URL = environ.get('SHORTLINK_URL', "linkshortify.com")
-SHORTLINK_API = environ.get('SHORTLINK_API', "318630d441c013d6a2db8cc44a4640d6d7262722")
-IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', "True"))
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'linkshortify.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '318630d441c013d6a2db8cc44a4640d6d7262722')
+IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 
 # Others
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
